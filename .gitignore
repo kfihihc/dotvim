@@ -1,4 +1,5 @@
 .DS_Store
 /*/.DS_Store
 /.ropeproject/
-/*/doc/tags
+*/doc/tags
+YouCompleteMe/build/
